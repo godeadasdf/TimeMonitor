@@ -2,7 +2,6 @@ package com.example.kangning.timemonitor;
 
 import android.app.Application;
 import android.content.Context;
-import android.os.SystemClock;
 
 /**
  * Created by kangning on 2017/7/8.
